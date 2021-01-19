@@ -1,4 +1,3 @@
-
 ## 1.1 Boas vindas
 
 Sejam bem vindos ao repositório de códigos de Arduino.
