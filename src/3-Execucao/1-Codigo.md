@@ -5,7 +5,7 @@
 </p>
 
 ```cpp
-void  setup() { //Executado cada vez que o Arduino se inicializa;
+void  setup() { // Executado cada vez que o Arduino se inicializa;
 	pinMode(13, OUTPUT); // Inicializa o pino 13 como saída.
 }
 
