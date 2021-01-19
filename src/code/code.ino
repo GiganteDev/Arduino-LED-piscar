@@ -1,12 +1,10 @@
-void setup() {
-  pinMode(13, OUTPUT);
+void  setup() { //Executado cada vez que o Arduino se inicializa;
+	pinMode(13, OUTPUT); // Inicializa o pino 13 como saída.
 }
 
-void loop() {
-  // turn the LED on (HIGH is the voltage level)
-  digitalWrite(13, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
-  // turn the LED off by making the voltage LOW
-  digitalWrite(13, LOW);
-  delay(1000); // Wait for 1000 millisecond(s)
+void  loop() { // Função loop() executada interruptamente;
+	digitalWrite(13, HIGH); // Acende o LED (HIGH nível de tensão liberado);
+	delay(1000); // Espera um segundo;
+	digitalWrite(13, LOW); // Apaga o LED (LOW nível de tensão interrompido);
+	delay(1000); // Espera um segundo.
 }
