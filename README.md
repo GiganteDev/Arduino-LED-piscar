@@ -12,9 +12,9 @@
 </h1>
   
   <p align="center">
-    <a href="https://github.com/GiganteDev/Arduino/issues">Report Bug</a>
+    <a href="https://github.com/GiganteDev/Arduino-piscar/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GiganteDev/Arduino/issues">Request Feature</a>
+    <a href="https://github.com/GiganteDev/Arduino-piscar/issues">Request Feature</a>
   </p>
 </p>
 
