@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Arduino blink</h2>
+  <h2 align="center">Arduino piscar</h2>
 
   <h1 align="center">
   <img src="https://github.com/GiganteDev/Arduino/blob/main/.github/img-arduino-logo.png" width="120">
