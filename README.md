@@ -38,7 +38,7 @@
 
 ### Execução
 
-01. [Código](/src/3-Execucao/01-Codigo.md)
+01. [Código](/src/3-Execucao/1-Codigo.md)
 
 
 ## Como Contribuir
