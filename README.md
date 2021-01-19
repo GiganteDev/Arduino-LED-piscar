@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/GiganteDev/Arduino/" target="_blank">
     <img src="https://github.com/GiganteDev/Arduino/blob/main/.github/img-banner-arduino.jpg">
@@ -57,5 +56,3 @@ são **extremamente apreciadas**
 - **Pedro Gabriel Gigante ([GiganteDev](https://www.github.com/gigantedev/))** - _Developer_
 
 <p align="center">Made with ❤️</p>
-
----
