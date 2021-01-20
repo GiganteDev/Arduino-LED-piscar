@@ -1,5 +1,5 @@
 ## 2.1 Material necessário
--   1Arduino UNO R3;
+-   1 Arduino UNO R3;
 -   1 Cabo USB AB;
 -   1 Led de qualquer cor.
 
