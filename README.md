@@ -21,6 +21,8 @@
 ## Sobre o Projeto
 <p align="left">
   Esse projeto explora as saídas digitais com sinais lógicos fixos e faz um LED piscar em estado ON/OFF específico e previamente programado.
+
+  Projeto de exemplo para piscar um LED em um Arduino.
 </p>
 
 ## Blink
